@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finger Print Recognition</string>
+    <string name="login_as_admin">Login as Admin</string>
+    <string name="login_as_bio">Login as BIO</string>
+    <string name="login_as_despatcher">Login as Despatcher</string>
+    <string name="login">LOGIN</string>
+    <string name="user_name">User Name</string>
+    <string name="user_password">User Password</string>
+</resources>
